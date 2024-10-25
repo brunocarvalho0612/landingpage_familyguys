@@ -1,5 +1,7 @@
 @use 'hero';
 @use 'header';
+@use 'details';
+@use 'footer';
 
 @font-face {
   font-family: Avenir;
@@ -20,6 +22,7 @@
   box-sizing: border-box;
   font-family: Avenir, sans-serif;
   list-style: none;
+  color: #fff;
 }
 
 
